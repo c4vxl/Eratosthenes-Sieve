@@ -1,5 +1,3 @@
-package sieve
-
 class EratosthenesSieve(val max: Int) {
     val primes: MutableList<Int>
         get() {
